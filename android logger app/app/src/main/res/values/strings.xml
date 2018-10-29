@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CPWS Logs</string>
+
+
+    <string-array name="treatmentvalues">
+        <item>A</item>
+        <item>B</item>
+
+        <item>C</item>
+
+        <item>D</item>
+
+    </string-array>
+
+
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+    <string name="profile">Profile</string>
+</resources>
